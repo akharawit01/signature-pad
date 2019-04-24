@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^3.9.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.0"
+    "react-scripts": "3.0.0",
+    "react-signature-canvas": "^1.0.1",
+    "signature_pad": "^3.0.0-beta.3"
   },
   "scripts": {
     "start": "react-scripts start",
